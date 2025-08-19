@@ -26,4 +26,4 @@ Natural logarithm using math.log()
 
 Sine (in radians) using math.sin()
 
-Results are printed with 4 decimal places for better readability.
+
